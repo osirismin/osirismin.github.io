@@ -1,0 +1,122 @@
+{
+    "good": [
+      
+     {
+          "image": "https://img.monikio.com/2023/09/2023090204.webp",
+          "title": "Cubox",
+          "info": "一款非常好用的网页收藏软件，一站式信息收集、阅读、管理和回顾、用网络碎片构建个人知识库。",
+          "macos": "macOS",
+          "ios": "iOS",
+          "web": "Web",
+          "free": "免费",
+          "link": "https://cubox.pro"
+      },
+     
+     {
+            "image": "https://img.monikio.com/2023/07/keka.webp",
+            "title": "Keka",
+            "info": "好用的解压缩软件，官网免费，苹果商店付费。",
+            "macos": "macOS",
+            "free": "免费",
+            "link": "https://www.keka.io/en/"
+        },        
+        {
+            "image": "https://img.monikio.com/2023/07/obsidian.webp",
+            "title": "Obsidian",
+            "info": "知识管理笔记类软件，插件丰富，有一定上手难度。",
+            "macos": "macOS",
+            "ios": "iOS",
+            "kaiyuan": "开源",
+            "link": "https://obsidian.md/"
+        },        
+        
+   
+        {
+            "image": "https://img.monikio.com/2023/07/eagle.webp",
+            "title": "Eagle",
+            "info": "设计师人手必备的素材管理软件，支持各类格式，搭配浏览器的插件，巨好用。",
+            "macos": "macOS",
+            "shoufei": "付费",
+            "link": "https://eagle.cool/"
+        },        
+        
+           
+        {
+            "image": "https://img.monikio.com/2023/07/surge.webp",
+            "title": "Surge",
+            "info": "上网必备软件，网络开发和代理工具，很贵但很好用。",
+            "macos": "macOS",
+            "ios": "iOS",
+            "shoufei": "付费",
+            "link": "https://nssurge.com/"
+        },    
+            
+            
+   
+        {
+            "image": "https://img.monikio.com/2023/07/hidden.webp",
+            "title": "Hidden Bar",
+            "info": "隐藏菜单栏图标软件，适合强迫症患者使用",
+            "macos": "macOS",
+            "kaiyuan": "开源",
+            "link": "https://github.com/dwarvesf/hidden"
+        },
+        
+       
+        {
+            "image": "https://img.monikio.com/2023/07/bitwarden.webp",
+            "title": "Bitwarden",
+            "info": "密码管理工具，服务器使用Docker版的vaultwarden，数据存储本地。",
+            "macos": "macOS",
+            "ios": "iOS",
+            "web": "Web",
+            "kaiyuan": "开源",
+            "link": "https://github.com/dani-garcia/vaultwarden"
+        },
+        
+        
+    
+        {
+            "image": "https://img.monikio.com/2023/07/iina.webp",
+            "title": "IINA",
+            "info": "视频播放软件，支持格式很全。",
+            "macos": "macOS",
+            "kaiyuan": "开源",
+            "link": "https://iina.io/"
+        },
+        
+     
+        {
+            "image": "https://img.monikio.com/2023/07/InfusePro.webp",
+            "title": "Infuse",
+            "info": "Apple TV必备软件，颜值很高，可以让你的视频流以海报的形式展示，几乎所有视频的格式。",
+            "macos": "macOS",
+            "ios": "iOS",
+            "tvos": "tvOS",
+            "shoufei": "付费",
+            "link": "https://firecore.com/infuse"
+        },
+        
+    
+        {
+            "image": "https://img.monikio.com/2023/07/xiaoyuz.webp",
+            "title": "小宇宙",
+            "info": "一款颜值很高的播客app，内容也不错。",
+            "ios": "iOS",
+            "web": "Web",
+            "free": "免费",
+            "link": "https://www.xiaoyuzhoufm.com/"
+        },
+        
+    
+   
+        {
+            "image": "https://img.monikio.com/2023/07/sms.webp",
+            "title": "熊猫吃短信",
+            "info": "iOS上必备的过滤垃圾信息应用。",
+            "ios": "iOS",
+            "shoufei": "付费",
+            "link": "https://apps.apple.com/cn/app/%E7%86%8A%E7%8C%AB%E5%90%83%E7%9F%AD%E4%BF%A1-%E5%9E%83%E5%9C%BE%E7%9F%AD%E4%BF%A1%E8%BF%87%E6%BB%A4/id1319191852"
+        }
+    ]
+}
